@@ -1,8 +1,0 @@
-{
-  "name": "azure-function-email",
-  "version": "1.0.0",
-  "dependencies": {
-    "@azure/functions": "^4.0.0",
-    "nodemailer": "^6.9.0"
-  }
-}
